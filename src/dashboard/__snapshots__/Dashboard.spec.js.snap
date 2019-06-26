@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Dashboard /> Matches snap 1`] = `
+<div
+  class="display panel"
+>
+  <div
+    class="led green-led"
+  >
+    Unlocked
+  </div>
+  <div
+    class="led green-led"
+  >
+    Open
+  </div>
+</div>
+`;
